@@ -4,13 +4,53 @@ html {
 
 body {
     height, width : 100%;
-    text-align; center;
+    background: brown;
+    transition: 2s;
 }
 
-.Quote {
-    height: 100px;
+.quote {
     width : 400px;
-    padding: 10px;
-    margin: 20px;
+    padding: 30px;
+    margin: 150px auto;
+    background: white;
+}
+
+.words {
     text-align: center;
+    color: brown;
+    font-family: 'Oranienbaum', serif;
+    font-size: 30px;
+    transition: 2s;
+}
+
+.author {
+    text-align: right;
+    color: brown;
+    font-family: 'Oranienbaum', serif;
+    transition: 2s;
+}
+
+.socmed {
+    width : 30px;
+    height: 30px;
+    position: relative;
+}
+
+i {
+    color: brown;
+    transition: 2s;
+}
+
+.send {
+    background-color: brown;
+    color: white;
+    position: relative;
+    float: right;
+    border: 0;
+    padding: 10px;
+    transition: 2s;
+}
+
+.test {
+    bottom: 100px;
 }
