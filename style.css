@@ -1,0 +1,16 @@
+html {
+    height, width : 100%;
+}
+
+body {
+    height, width : 100%;
+    text-align; center;
+}
+
+.Quote {
+    height: 100px;
+    width : 400px;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+}
