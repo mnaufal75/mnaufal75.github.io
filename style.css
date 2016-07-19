@@ -17,7 +17,6 @@ body {
 
 .words {
     text-align: center;
-    color: brown;
     font-family: 'Oranienbaum', serif;
     font-size: 30px;
     transition: 2s;
@@ -25,7 +24,6 @@ body {
 
 .author {
     text-align: right;
-    color: brown;
     font-family: 'Oranienbaum', serif;
     transition: 2s;
 }
@@ -37,12 +35,10 @@ body {
 }
 
 i {
-    color: brown;
     transition: 2s;
 }
 
 .send {
-    background-color: brown;
     color: white;
     position: relative;
     float: right;
